@@ -5,4 +5,4 @@ My name is Kenji Tomita. I'm an Android Developer at [Connehito](https://connehi
 I enjoy developing for Android 😁, and I think my favorite thing to talk about is Jetpack Compose.
 
 Thank you for checking out my profile.
-Let's hangout on [Twitter](https://twitter.com/tommykw_en).
+Let's hangout on [Twitter](https://twitter.com/tommykw_en), [dev.to](https://dev.to/tommykw).
