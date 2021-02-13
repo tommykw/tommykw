@@ -3,7 +3,7 @@
 Welcome to my page!
 My name is Kenji Tomita. I'm an Android Developer at [Connehito](https://connehito.com/), currently working on [Mamari](https://play.google.com/store/apps/details?id=com.connehito.mamariq&hl=ja) - an app that solves family's worries.
 
-I enjoy developing for Android 😁, and I think my favorite thing to talk about is [IR compiler](https://kotlinlang.org/docs/reference/js-ir-compiler.html).
+I enjoy developing for Android 😁, and what excite me is program synthesis, binary rewriting and compiler optimization.
 
 Thank you for checking out my profile.
 Let's hangout on [Twitter](https://twitter.com/tommykw_en), [dev.to](https://dev.to/tommykw).
